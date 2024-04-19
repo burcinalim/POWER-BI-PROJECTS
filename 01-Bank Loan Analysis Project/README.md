@@ -58,8 +58,9 @@ The primary dataset used for this analysis is the "financial_loan.csv" file, con
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Summary Page]([Screenshots/1-SummaryPage.png](https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/1-Summary%20Page.png))
+![Overview Page]([Screenshots/2-OverviewPage.png](https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/2-Overview%20Page.png))
+![Details Page]([/Screenshots/3-Details Page.png](https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/3-Details%20Page.png))
 ## Color Reference
 
 The details of the color palettes used for this dashboard is the "Color Palettes" file.
