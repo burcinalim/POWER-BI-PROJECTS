@@ -58,9 +58,9 @@ The primary dataset used for this analysis is the "financial_loan.csv" file, con
 
 ## Screenshots
 
-![App Screenshot](Page.png)
-![](Page.png)
-![](Page.png)
+![Summary Page](Screenshots/1-Summary Page.png)
+![Overview Page](Screenshots/2-Overview Page.png)
+![Details Page](Screenshots/1-Details Page.png)
 
 ## Color Reference
 
