@@ -60,7 +60,7 @@ The primary dataset used for this analysis is the "financial_loan.csv" file, con
 
 ![Summary Page](Screenshots/1-SummaryPage.png)
 ![Overview Page](Screenshots/2-OverviewPage.png)
-![Details Page](Screenshots/3-DetailsPage.png)
+![Details Page](01-Bank Loan Analysis Project/Screenshots/3-Details Page.png)
 
 ## Color Reference
 
