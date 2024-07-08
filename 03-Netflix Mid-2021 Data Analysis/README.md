@@ -7,7 +7,6 @@
 - Data Source
 - Tools
 - Data Transformation
-- Data Modeling
 - Visualization
 
 ### Problem Statement
